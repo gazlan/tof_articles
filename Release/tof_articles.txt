@@ -1,0 +1,7 @@
+-*-   tof_articles 1.0  *   Copyright (c) Gazlan, 2015   -*-
+
+TECDOC_CD_3_2015 DB TOF_ARTICLES dumper
+
+Usage: tof_articles.com
+
+complains_n_suggestions direct to gazlan@yandex.ru
